@@ -1,0 +1,25 @@
+AJCJC = Queue | A = q   J = u   C = e
+
+ICQUYD = Mentor | I = m   Q = n   U = t   Y = o   D = r
+
+ICBBZFC = Message | B = s   Z = a   F = g   
+
+PQBUDJKUYD = Instructor | P = i   K = c
+
+
+
+IQQUPQFB = Meetings
+
+ZEWPBYD = Advisor | E = d   W = v 
+
+
+LZPD = Pair | L = p
+
+LDYFDZIIPQF = Programming
+
+
+
+AJCJC = Queue
+LZPD-LDYFDZIIPQF = Pair-programming
+ZEWPBYD ICCUPQFB = Advisor meetings
+ICBBZFC PQBUDJKUYD YD ICQUYD = Message instructor or mentor
